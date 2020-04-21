@@ -13,6 +13,7 @@
 		FE557744244E133100B1599C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE557742244E133100B1599C /* Main.storyboard */; };
 		FE557746244E133300B1599C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE557745244E133300B1599C /* Assets.xcassets */; };
 		FE557749244E133300B1599C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE557747244E133300B1599C /* LaunchScreen.storyboard */; };
+		FE557777244EA1D100B1599C /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE557776244EA1D100B1599C /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE557745244E133300B1599C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE557748244E133300B1599C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE55774A244E133300B1599C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE557776244EA1D100B1599C /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FE55773E244E133100B1599C /* SceneDelegate.swift */,
 				FE557740244E133100B1599C /* ViewController.swift */,
 				FE557742244E133100B1599C /* Main.storyboard */,
+				FE557776244EA1D100B1599C /* RoundButton.swift */,
 				FE557745244E133300B1599C /* Assets.xcassets */,
 				FE557747244E133300B1599C /* LaunchScreen.storyboard */,
 				FE55774A244E133300B1599C /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE557777244EA1D100B1599C /* RoundButton.swift in Sources */,
 				FE557741244E133100B1599C /* ViewController.swift in Sources */,
 				FE55773D244E133100B1599C /* AppDelegate.swift in Sources */,
 				FE55773F244E133100B1599C /* SceneDelegate.swift in Sources */,
